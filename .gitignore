@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+
+# next.js
+.next
+
+# production
+dist
+build
+
+# environment variables
+.env
+.env.local
+
+# logs
+logs
+*.log
+
+# mac
+.DS_Store
+
+# vscode
+.vscode
+
+# coverage
+coverage
